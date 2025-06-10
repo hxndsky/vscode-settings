@@ -1,5 +1,6 @@
 ## Hxndsky VSCode Settings
 <br>
+<span>Just copy/replace to your settings.json <img src="https://i.postimg.cc/nr2Tg3hQ/silly-youtube-emotes-but-with-better-quality-v0-8w6g70oi39ha1.webp" width="24"></span>
 <p align="center"><samp>Preview</samp></p>
 <p align="center">
 <img src="https://i.postimg.cc/Y9gcYS1L/image.png">
